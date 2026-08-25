@@ -2,6 +2,6 @@ package com.neueda.leap;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world and greetings from the team's Sprint 2 project skeleton :)");
+        System.out.println("Hello world and greetings and hey from the team's Sprint 2 project skeleton :)");
     }
 }
